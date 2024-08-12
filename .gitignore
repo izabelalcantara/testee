@@ -1,0 +1,15 @@
+# private rsa key
+id_rsa_priv.pem
+
+# dependencies
+node_modules/
+
+.DS_Store
+.idea
+.env
+
+*.sqlite
+*.png
+*.jpg
+
+*.yml
